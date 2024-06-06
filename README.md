@@ -2,6 +2,20 @@
 AlashDHT — это библиотека для Arduino, ESP8266 и ESP32, которая позволяет легко считывать данные о температуре и влажности с цифровых датчиков DHT (DHT11, DHT21, DHT22, DHT10, DHT20), обеспечивая простую интеграцию и точные измерения для различных проектов.
 
 
+
+<img src=https://static.insales-cdn.com/images/products/1/829/570557245/44.png width=300>
+
+[Модуль датчика температуры и влажности DHT11](https://alash-electronics.kz/collection/klimaticheskie/product/modul-datchika-temperatury-i-vlazhnosti-dht11)
+
+<img src=https://static.insales-cdn.com/images/products/1/403/570548627/36.png width=300>
+
+[Датчик температуры и влажности DHT22 (AM2302)](https://alash-electronics.kz/collection/klimaticheskie/product/datchik-temperatury-i-vlazhnosti-dht22-am2302)
+
+
+# AlashDHT
+AlashDHT — это библиотека для Arduino, ESP8266 и ESP32, которая позволяет легко считывать данные о температуре и влажности с цифровых датчиков DHT (DHT11, DHT21, DHT22, DHT10, DHT20), обеспечивая простую интеграцию и точные измерения для различных проектов.
+
+
 Вот описание каждой функции библиотеки "AlashDHT.h" с примерами использования:
 
 1. `DHT()`: Конструктор класса DHT, создает объект для работы с датчиком влажности и температуры.
